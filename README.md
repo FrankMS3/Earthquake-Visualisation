@@ -1,4 +1,6 @@
-# USGS Interactive Earthquake Visualisation  
+# USGS Interactive Earthquake Visualisation
+
+Languages used: HTML/CSS, JavaScript  
   
 The GeoJSON data used is retrieved from the United States Geological Survey (USGS) website, available [here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). Specifically, the dataset visualised here contains data on all recorded earthquakes over the past 7 days.  
   
